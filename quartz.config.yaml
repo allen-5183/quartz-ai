@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "課程名稱： AI 與自動化"
+  pageTitle: "課程名稱： AI 與自動化與雲端服務"
   pageTitleSuffix: ""
   enableSPA: false
   enablePopovers: true
